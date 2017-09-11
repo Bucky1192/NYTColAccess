@@ -1,7 +1,15 @@
+// Original by: Adam Ross Nelson JD PhD.
+// The goal of this repository is to attempt a decode and/or reverse engineer
+// of the NYT College Access Index. Information about Col. Access Index at:
+//      https://www.nytimes.com/2017/05/26/opinion/2017-college-access-index-methodology.html
+//      https://www.nytimes.com/interactive/2017/05/25/sunday-review/opinion-pell-table.html
+
 set more off
 clear all
 
-use https://www.adamrossnelson.com/nytask/NYTData.dta, clear
+// Data for this project is reproduced from:
+// https://www.nytimes.com/interactive/2017/05/25/sunday-review/opinion-pell-table.html
+use "https://github.com/adamrossnelson/NYTColAccess/blob/master/NYTData.dta?raw=true", clear
 
 // Add descriptive variable labels. Based on information foud at:
 // https://www.nytimes.com/interactive/2017/05/25/sunday-review/opinion-pell-table.html
