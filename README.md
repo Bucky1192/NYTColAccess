@@ -5,7 +5,7 @@ The code and examples in this repository are devoted to decoding / reverse engin
 ### For a quick run enter the following in Stata's command line
 
 ```
-do 
+do "https://raw.githubusercontent.com/adamrossnelson/NYTColAccess/master/NYTAccessDemo.do"
 
 ```
 No installation or downloads necessary.
