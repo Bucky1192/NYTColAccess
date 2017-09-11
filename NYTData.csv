@@ -1,0 +1,171 @@
+rank,instnm,PellShare,MidNPrice,Index
+1,University of California-Irvine,39,12,1.9
+2,University of California-Santa Barbara,31,13,1.61
+3,University of California-Davis,30,13,1.6
+4,University of California-San Diego,29,11,1.58
+5,University of California-Los Angeles,26,11,1.52
+6,University of Florida,22,8,1.46
+7,Amherst College,22,9,1.4400001
+8,Pomona College,20,7,1.4299999
+9,University of California-Berkeley,22,11,1.38
+10,Harvard University,15,5,1.36
+11,Vassar College,21,11,1.36
+12,Williams College,18,7,1.35
+13,Princeton University,16,6,1.34
+14,Wellesley College,18,9,1.3200001
+15,Stanford University,14,4,1.3099999
+16,Knox College,26,18,1.3
+17,University of North Carolina at Chapel Hill,18,10,1.3
+18,Columbia University,16,9,1.26
+19,Barnard College,19,12,1.25
+20,Yale University,14,7,1.22
+21,Westminster College,25,19,1.21
+22,Wesleyan University,17,12,1.21
+23,Davidson College,13,7,1.2
+24,Massachusetts Institute of Technology,14,9,1.2
+25,Texas A & M University-College Station,17,11,1.1900001
+26,Brown University,15,10,1.1900001
+27,University of Georgia,16,12,1.1799999
+28,Occidental College,19,14,1.1799999
+29,Grinnell College,18,14,1.17
+30,Rice University,13,8,1.17
+31,Rutgers University-New Brunswick,21,17,1.17
+32,Duke University,12,7,1.17
+33,Middlebury College,15,10,1.16
+34,Washington and Lee University,9,5,1.16
+35,Gustavus Adolphus College,21,17,1.16
+36,Vanderbilt University,12,8,1.16
+37,University of Illinois at Urbana-Champaign,18,15,1.14
+38,Bowdoin College,13,10,1.12
+39,University of Michigan-Ann Arbor,12,9,1.12
+40,Swarthmore College,15,12,1.11
+41,College of Saint Benedict,21,19,1.11
+42,Hamilton College,14,12,1.11
+43,Dartmouth College,13,10,1.1
+44,SUNY at Binghamton,19,17,1.1
+45,University of Pennsylvania,13,10,1.1
+46,Franklin and Marshall College,16,14,1.09
+47,Allegheny College,21,19,1.09
+48,Moody Bible Institute,22,20,1.08
+49,University of Richmond,14,13,1.08
+50,Smith College,16,15,1.08
+51,Trinity College,14,13,1.0700001
+52,Colgate University,11,10,1.0599999
+53,St. Olaf College,15,14,1.05
+54,Haverford College,13,12,1.05
+55,University of Chicago,10,9,1.04
+56,College of William and Mary,9,8,1.04
+57,Colorado College,11,11,1.04
+58,University of Texas at Austin,15,15,1.04
+59,Washington & Jefferson College,21,21,1.03
+60,Colby College,9,8,1.03
+61,Reed College,14,13,1.03
+62,Wheaton College (Illinois),16,16,1.03
+63,Claremont McKenna College,12,12,1.03
+64,Georgia Tech,11,11,1.02
+65,St. Mary's College of Maryland,13,13,1.02
+66,Mount Holyoke College,15,15,1.02
+67,University of Maryland-College Park,11,11,1.02
+68,University of Rochester,16,17,1.02
+69,Brandeis University,17,18,1.01
+70,SUNY College at Geneseo,14,14,1
+71,Johns Hopkins University,12,13,1
+72,Carleton College,13,14,1
+73,Clemson University,13,14,.99000001
+74,Denison University,14,16,.99000001
+75,Kalamazoo College,16,17,.99000001
+76,Emory University,17,18,.99000001
+77,Ohio State University-Main Campus,13,14,.99000001
+78,Saint Johns University,16,17,.99000001
+79,Cornell University,13,14,.99000001
+80,Northwestern University,13,14,.99000001
+81,Macalester College,14,16,.98000002
+82,Siena College,19,21,.98000002
+83,Tufts University,12,14,.95999998
+84,University of New Hampshire-Main Campus,17,20,.95999998
+85,St Lawrence University,16,19,.94999999
+86,Hope College,15,18,.94999999
+87,University of Virginia-Main Campus,11,13,.94
+88,University of Southern California,17,19,.94
+89,University of Notre Dame,10,13,.94
+90,Juniata College,19,22,.94
+91,Georgetown University,11,14,.94
+92,University of Delaware,10,13,.94
+93,University of Connecticut,13,16,.94
+94,College of the Holy Cross,15,18,.93000001
+95,Skidmore College,11,14,.92000002
+96,Kenyon College,9,12,.92000002
+97,Bryn Mawr College,11,15,.92000002
+98,DePauw University,14,18,.89999998
+99,Sewanee,13,17,.89999998
+100,Virginia Tech,11,15,.89999998
+101,James Madison University,11,15,.88999999
+102,Wofford College,15,20,.88999999
+103,Lawrence University,15,19,.88999999
+104,Gettysburg College,12,16,.88999999
+105,University of Wisconsin-Madison,9,14,.88999999
+106,Bates College,9,13,.88
+107,Willamette University,19,24,.88
+108,Syracuse University,18,23,.88
+109,College of New Jersey,13,18,.87
+110,Stonehill College,16,21,.87
+111,Clark University,19,24,.86000001
+112,Illinois Wesleyan University,16,22,.86000001
+113,Lehigh University,12,17,.86000001
+114,Washington University in St. Louis,8,13,.86000001
+115,Luther College,15,21,.86000001
+116,Boston College,11,16,.85000002
+117,Connecticut College,12,18,.83999997
+118,Ursinus College,17,23,.82999998
+119,Trinity University,11,18,.81999999
+120,Babson College,13,20,.81999999
+121,Wake Forest University,9,16,.81
+122,Union College,10,17,.80000001
+123,Bentley University,13,21,.77999997
+124,Lafayette College,9,17,.77999997
+125,Oberlin College,8,16,.76999998
+126,Messiah College,14,22,.76999998
+127,Dickinson College,10,18,.75999999
+128,Whitman College,10,19,.75999999
+129,Centre College,14,23,.75
+130,Fairfield University,11,20,.74000001
+131,Case Western Reserve University,14,24,.73000002
+132,Rhodes College,12,22,.72000003
+133,Muhlenberg College,10,20,.72000003
+134,Stevens Institute of Technology,15,25,.70999998
+135,Hobart William Smith Colleges,11,21,.69999999
+136,American University,14,25,.69
+137,Northeastern University,10,21,.68000001
+138,University of Denver,12,23,.68000001
+139,University of Portland,16,27,.67000002
+140,Pepperdine University,14,25,.66000003
+141,New York University,18,30,.64999998
+142,Furman University,10,22,.64999998
+143,Bucknell University,10,22,.64999998
+144,Miami University (Ohio),8,20,.63999999
+145,Loyola University Maryland,13,25,.63999999
+146,Marquette University,12,24,.63
+147,Boston University,12,25,.63
+148,Villanova University,11,24,.63
+149,Carnegie Mellon University,10,23,.62
+150,Santa Clara University,11,24,.62
+151,Penn State University-Main Campus,11,24,.62
+152,Ithaca College,14,28,.61000001
+153,University of Dayton,10,24,.60000002
+154,Rhode Island School of Design,14,28,.60000002
+155,George Washington University,10,24,.58999997
+156,University of Pittsburgh,11,24,.58999997
+157,Providence College,11,25,.58999997
+158,Fordham University,14,29,.57999998
+159,Southern Methodist University,9,23,.56999999
+160,Gonzaga University,12,28,.55000001
+161,Rensselaer Polytechnic Institute,12,28,.54000002
+162,University of Miami,12,28,.54000002
+163,Marist College,11,27,.51999998
+164,Worcester Polytechnic Institute,10,29,.44
+165,Quinnipiac University,11,31,.41999999
+166,Bryant University,11,30,.41999999
+167,Elon University,6,26,.38
+168,Saint Joseph's University,8,29,.36000001
+169,Emerson College,13,35,.34999999
+170,University of Puget Sound,10,34,.28
